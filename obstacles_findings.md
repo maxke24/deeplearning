@@ -24,6 +24,7 @@ RMSProp Optimizer gebruiken
 
 Early stopping hoger zetten
 * Relu + Softmax
+* Early stopping bijna na de 4e epoch…
 * ✘ Overfit
 
 Hogere dropout
