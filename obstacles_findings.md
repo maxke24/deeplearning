@@ -38,3 +38,5 @@ Long Short-Term Memory
 * "Eigen random search" maken -> Combinaties testen
 	* Pro: Goed overzicht
 	* Contra: Weinig improvements(?), lange duur...
+
+Test aanpassing om iets te tonen.
